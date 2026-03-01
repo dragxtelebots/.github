@@ -71,7 +71,7 @@ We welcome contributions!
 
 For collaboration or inquiries:
 
-- Telegram: @yourusername
+- Telegram: @[Dragon](https://t.me/lungiiman)
 - GitHub: https://github.com/dragxtelebots
 
 ---

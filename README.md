@@ -72,7 +72,7 @@ We welcome contributions!
 For collaboration or inquiries:
 
 - Telegram: [Dragon](https://t.me/lungiiman)
-- GitHub: [Taslim]https://github.com/taslim19
+- GitHub: [Taslim](https://github.com/taslim19)
 
 ---
 

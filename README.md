@@ -71,8 +71,8 @@ We welcome contributions!
 
 For collaboration or inquiries:
 
-- Telegram: @[Dragon](https://t.me/lungiiman)
-- GitHub: https://github.com/dragxtelebots
+- Telegram: [Dragon](https://t.me/lungiiman)
+- GitHub: [Taslim]https://github.com/taslim19
 
 ---
 
